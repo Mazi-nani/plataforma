@@ -2,8 +2,10 @@
 {
   border-bottom: 2px solid gray;
   padding-left: 18%;
+  margin-top : 1%;
 }
 .container-nombre
 {
   height: 150px;
+  width: 67%;
 }

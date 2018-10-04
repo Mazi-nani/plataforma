@@ -1,5 +1,9 @@
-.navbar
+.navbar-up
 {
   border-bottom: 2px solid gray;
-  padding-left: 20%;
+  padding-left: 18%;
+}
+.container-nombre
+{
+  height: 150px;
 }
